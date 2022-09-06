@@ -76,3 +76,12 @@ ls
 git add .
 git commit -m "fix bug"
 exit
+clear
+ls
+git commit -m "fix big"
+ls
+git add . 
+git commit -m "lol"
+git remote add origin https://github.com/Arashvscode/Ghostweb.git
+git push -u origin main
+exit
