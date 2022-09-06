@@ -61,3 +61,12 @@ git commit -m "Ghostwebapp"
 git remote add origin https://github.com/Arashvscode/Ghostweb.git
 git push origin master
 exit
+clear
+ls
+git init
+git add . 
+git add .
+git config --global user.email "arashvscode@gmail.com"
+git config --global user.name "Arashvscode"
+git commit -m "Ghostweb"
+exit
