@@ -70,3 +70,9 @@ git config --global user.email "arashvscode@gmail.com"
 git config --global user.name "Arashvscode"
 git commit -m "Ghostweb"
 exit
+ls
+clear
+ls
+git add .
+git commit -m "fix bug"
+exit
